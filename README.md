@@ -1,6 +1,6 @@
-# CRiticLM
+# CR-Eval
 
-This repository contains the official implementation of ***CRiticLM***: Fine-Tuned Large Language Models Are Weakness Analysts of Cellular Network Specifications
+This repository contains the official implementation of ``Can Large Language Models Automate the Refinement of Cellular Network Specifications?''
 
 ## System Requirements
 
